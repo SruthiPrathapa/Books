@@ -17,3 +17,7 @@ The books can be opened with any EPUB-compatible reader, such as:
 - Apple Books
 - Google Play Books
 - Adobe Digital Editions
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajEwNzBjaXJzMWhldmF1NjRodXp2amhzNTg1YW05ZWl4NjNxcmJ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDjCUZFGR4rD2go3DX/giphy.gif" width="400" alt="Reading GIF">
+</p>
